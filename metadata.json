@@ -1,0 +1,8 @@
+{
+  "name": "WeComm - 智慧社区",
+  "description": "一个基于微信生态审美的现代化社区小程序，集成了AI助手、动态广场、话题讨论及个人中心。支持智能内容总结与AI问答互动。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
